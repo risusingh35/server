@@ -7,17 +7,6 @@ Log
 public
 build
 csv
-build_old
-build_old1
-build_old2
-build_old3
-build_old4
-build_old5
-build_old6
-build_old7
-build_old8
-build_old9
-
 # exclude everything
 build/*
 public/*
